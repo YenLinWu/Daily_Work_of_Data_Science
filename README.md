@@ -9,3 +9,6 @@
 
 - [判定係數 R-Squared 的解讀](https://colab.research.google.com/github/YenLinWu/Daily_Work_of_Data_Science/blob/Dev/R2/R2.ipynb)        
   彙整判定係數的概念與常見的誤解。 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YenLinWu/Daily_Work_of_Data_Science/blob/Dev/R2/R2.ipynb)  :point_left:  
+
+- [機器學習模型指標的關係](./MAE_and_R2/README.md)  
+  在迴歸問題中，模型的解釋能力指標 R2 與預測能力指標 MAE、RMSE 的關係。  

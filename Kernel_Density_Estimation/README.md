@@ -10,6 +10,11 @@
 </p>
 
 ### KDE 的介紹與 Python 實作程式碼   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YenLinWu/Daily_Work_of_Data_Science/blob/Dev/Kernel_Density_Estimation/Kernel_Density_Estimation.ipynb)  :point_left:  
-  
-      
+
+### 參考文獻   
+- Andrey Akinshin. October 13, 2020. The importance of kernel density estimation bandwidth. [https://aakinshin.net/posts/kde-bw/](https://aakinshin.net/posts/kde-bw/).
+- Jaroslaw Drapala. Aug 16, 2023. Kernel Density Estimator explained step by step. [https://towardsdatascience.com/kernel-density-estimation-explained-step-by-step-7cc5b5bc4517](https://towardsdatascience.com/kernel-density-estimation-explained-step-by-step-7cc5b5bc4517).
+
+</br>    
+
 Back to [資料科學的日常研究議題](https://github.com/YenLinWu/Daily_Work_of_Data_Science/blob/Dev/README.md#%E7%A0%94%E7%A9%B6%E8%AD%B0%E9%A1%8C)

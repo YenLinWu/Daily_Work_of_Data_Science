@@ -1,6 +1,6 @@
 # 核密度估計 Kernel Density Estimation, KDE
 
-![Python](https://img.shields.io/badge/Python-3.10.12-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.23.5-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.5.3-range.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.11.4-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.7.1-range.svg) ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.1-range.svg) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-1.2.2-range.svg)   
+![Python](https://img.shields.io/badge/Python-3.10.12-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.25.2-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.5.3-range.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.11.4-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.7.1-range.svg) ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.1-range.svg) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-1.2.2-range.svg)   
 
 ### 前言  
 在資料科學領域中，觀察和理解數據的分布，是一開始解析數據的重要環節之一，而，KDE 是一個極具價值且實用的方法，其不僅能平滑數據捕捉樣本的潛在型態，且還能估算出樣本的機率密度函數，提供更多元且詳盡的數據細節。

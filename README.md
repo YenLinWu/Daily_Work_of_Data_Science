@@ -10,6 +10,9 @@
 - [核密度估計 KDE](./Kernel_Density_Estimation/README.md)  
   介紹核密度估計的概念，與說明其實作的細節。
 
+- [特徵縮放 Feature Scaling](./Feature_Scaling/README.md)  
+  介紹特徵縮放的常見方法，且說明其對於機器學習演算法的必要性。
+
 - [判定係數 R-Squared 的解讀](https://colab.research.google.com/github/YenLinWu/Daily_Work_of_Data_Science/blob/Dev/R2/R2.ipynb)        
   彙整判定係數的概念與常見的誤解。 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YenLinWu/Daily_Work_of_Data_Science/blob/Dev/R2/R2.ipynb)  :point_left:  
 

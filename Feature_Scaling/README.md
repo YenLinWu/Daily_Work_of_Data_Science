@@ -1,6 +1,6 @@
 # 特徵縮放 Feature Scaling  
 
-![Python](https://img.shields.io/badge/Python-3.10.12-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.25.2-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.5.3-range.svg) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-1.2.2-range.svg) ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.1-range.svg) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-1.2.2-range.svg)   
+![Python](https://img.shields.io/badge/Python-3.10.12-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.25.2-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.5.3-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.1-range.svg) ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.1-range.svg) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-1.2.2-range.svg)   
 
 ### 前言  
 在資料科學領域中，資料前處理的過程，係訓練模型前提升資料品質的關鍵步驟。特徵縮放(Feature Scaling)是資料前處理的其中一種技巧，它能幫助我們更客觀理解與比較數據，避免因為多個特徵間不同的數值範圍尺度，造成我們解讀與判斷的偏差，另外，對於一些基於距離或梯度收斂的機器學習演算法，特徵縮放也能提升模型的訓練效率，與確保模型的預測。   

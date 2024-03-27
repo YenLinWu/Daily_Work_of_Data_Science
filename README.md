@@ -10,6 +10,9 @@
 - [核密度估計 KDE](./Kernel_Density_Estimation/README.md)  
   介紹核密度估計的概念，與說明其實作的細節。
 
+- [常態性與同質性檢定](./Normality_and_Homogeneity_Test/README.md)  
+  介紹常見的檢定方法，且探討不同檢定方法的適用性差異。
+
 - [特徵縮放 Feature Scaling](./Feature_Scaling/README.md)  
   介紹特徵縮放的常見方法，且說明其對於機器學習演算法的必要性。
 

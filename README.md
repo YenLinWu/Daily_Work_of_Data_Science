@@ -4,6 +4,9 @@
 <span> - &copy; 吳彥霖 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yenlinwu/)  </span>  
 
 ## 研究議題   
+- [機器學習模型的簡介](./Introduction_to_Machine_Learning_Models/README.md)  
+  藉由白話簡潔的圖文敘述，介紹機器學習的基礎概念與演算法，且建立正確的應用概念。
+  
 - [直方圖的分箱方法](./Number_of_Bins_and_Width_in_a_Histogram/README.md)  
   研究 6 種常見的分箱數計算方法，且探討每種方法的適用情境。  
 

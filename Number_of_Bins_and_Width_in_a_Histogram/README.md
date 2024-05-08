@@ -1,4 +1,4 @@
-# 直方圖的分箱數與寬度 
+# 直方圖的分箱數與寬度 Number of Bins and Width in a Histogram  
 
 ![Python](https://img.shields.io/badge/Python-3.10.12-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.22.4-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.5.3-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.7.1-range.svg) ![Seaborn](https://img.shields.io/badge/Seaborn-0.12.2-range.svg)   
 
@@ -23,4 +23,4 @@
  <img src="./imgs/適用情境.png" width="75%")  
 </p>  
       
-Back to [資料科學的日常研究議題](https://github.com/YenLinWu/Daily_Work_of_Data_Science/blob/Dev/README.md#%E7%A0%94%E7%A9%B6%E8%AD%B0%E9%A1%8C)
+Back to [資料科學的日常研究議題](https://github.com/YenLinWu/Daily_Work_of_Data_Science/blob/main/README.md#%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E7%9A%84%E6%97%A5%E5%B8%B8)

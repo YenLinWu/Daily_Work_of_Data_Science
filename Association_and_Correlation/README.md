@@ -1,6 +1,6 @@
 # 關聯性與相關性 Association and Correlation   
 
-![Python](https://img.shields.io/badge/Python-3.10.12-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.25.2-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-2.0.3-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.1-range.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.11.4-range.svg)   
+![Python](https://img.shields.io/badge/Python-3.10.12-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.26.4-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-2.1.4-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.1-range.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.13.1-range.svg)   
 
 ### 前言  
 在資料分析的過程中，探索變數之間的關聯性/相關性，除能有助於我們理解數據中潛在或顯著的關係外，也能輔助我們在訓練機器學習模型時，尋找到具有影響力且重要的特徵變數，以提升模型的預測能力與解釋能力。

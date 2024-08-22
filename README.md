@@ -31,3 +31,6 @@
 
 - [機器學習模型指標的關係](./MAE_and_R2/README.md)  
   在迴歸問題中，模型的解釋能力指標 R2 與預測能力指標 MAE、RMSE 的關係。  
+
+- [平均反正切絕對百分比誤差 MAAPE](./MAAPE_and_MAPE/README.md)  
+  在迴歸問題中， MAAPE 能克服 MAPE 當實際值為 0 的問題。 

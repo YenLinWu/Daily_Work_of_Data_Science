@@ -35,6 +35,11 @@
 - [平均反正切絕對百分比誤差 MAAPE](./MAAPE_and_MAPE/README.md)  
   在迴歸問題中， MAAPE 能克服 MAPE 當實際值為 0 的問題。 
 
+### ML 模型監控  
+- [模型監控的觀念與策略](./Performance_Monitoring/README.md)  
+  在迴歸問題中，模型的監控指標超標，意味著兩種可能 : 過擬合或模型飄移。
+
+
 ## 其他
 
 - [2024 台灣資料科學領航計畫](./TWDS_2024_Mentorship_Program/README.md)  

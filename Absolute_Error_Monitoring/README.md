@@ -17,7 +17,7 @@
 ### ML 模型單點預測誤差的監控
 - 概念說明與實例 Python 程式碼   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YenLinWu/Daily_Work_of_Data_Science/blob/Dev/Absolute_Error_Monitoring/Absolute_Error_Monitoring.ipynb)  :point_left:      
 - [實務札記]()  
-- [ML 單點預測誤差監控 - 隨手指南](https://github.com/YenLinWu/Daily_Work_of_Data_Science/blob/Dev/Absolute_Error_Monitoring/)  
+- [ML 模型單點預測誤差監控 - 隨手指南](https://github.com/YenLinWu/Daily_Work_of_Data_Science/blob/Dev/Absolute_Error_Monitoring/ML模型單點預測誤差的監控.pdf)  
       
 </br>
 

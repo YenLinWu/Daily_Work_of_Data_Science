@@ -9,6 +9,9 @@
 - [機器學習模型的簡介](./Introduction_to_Machine_Learning_Models/README.md)  
   藉由白話簡潔的圖文敘述，介紹機器學習的基礎概念與演算法，且建立正確的應用概念。
 
+- [資料科學的特徵工程](./Introduction_to_Feature_Transformation_and_Extraction/README.md)  
+  介紹特徵轉換與特徵萃取的方法，且針對訓練 ML 模型時所遭遇的瓶頸，提供優化 ML 模型的策略方向。 
+
 ### 資料前處理  
 - [直方圖的分箱方法](./Number_of_Bins_and_Width_in_a_Histogram/README.md)  
   介紹 6 種常見的分箱數計算方法，且探討每種方法的適用情境。  

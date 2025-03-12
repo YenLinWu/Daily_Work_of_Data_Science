@@ -12,7 +12,7 @@
 
 ### 文件連結  [ [資料科學的特徵工程](./資料科學的特徵工程.pdf) ] :point_left:   
   
-### Python 實作程式碼  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  :point_left:  
+### Python 實作程式碼  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YenLinWu/Daily_Work_of_Data_Science/blob/Dev/Introduction_to_Feature_Transformation_and_Extraction/Feature_Transformation_and_Extraction.ipynb)  :point_left:  
 
 </br>    
 

@@ -1,7 +1,9 @@
 # 資料科學的特徵工程   
 
+![Python](https://img.shields.io/badge/Python-3.11.11-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.26.4-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-2.2.2-range.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.13.1-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.0-range.svg) ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-range.svg) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-1.6.1-range.svg) ![Kagglehub](https://img.shields.io/badge/Kagglehub-0.3.9-range.svg)  
+  
 ### 前言  
-在資料探勘與機器學習的領域中，特徵工程是影響 ML 模型表現的關鍵環節。此份「資料科學的特徵工程」旨在介紹特徵轉換與特徵萃取的方法，幫助大家理解如何有效處理數據，提高 ML 模型的準確性、泛化能力與可解釋性。</br>
+在資料探勘與機器學習的領域中，特徵工程是影響 ML 模型表現的關鍵環節。此份「資料科學的特徵工程」文件，旨在介紹特徵轉換與特徵萃取的方法，幫助大家理解如何有效處理數據，提高 ML 模型的準確性、泛化能力與可解釋性。</br>
 
 內容涵蓋兩大主題：特徵轉換與特徵萃取。特徵轉換部分，探討如何透過特徵縮放與分箱，使數據更適應不同的 ML 模型，提升 ML 模型的學習效率與穩定性，另外，特徵萃取則聚焦於降維技術 : 主成分分析(PCA)，用於去除冗餘資訊，強化數據的代表性。最後，將針對訓練 ML 模型時所遭遇的瓶頸，提供優化 ML 模型的策略方向。</br>
 
@@ -9,6 +11,8 @@
  
 
 ### 文件連結  [ [資料科學的特徵工程](./資料科學的特徵工程.pdf) ] :point_left:   
+  
+### Python 實作程式碼  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  :point_left:  
 
 </br>    
 
